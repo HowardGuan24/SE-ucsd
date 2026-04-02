@@ -1,5 +1,5 @@
 # About Me:
-[Contact Information](##social-media)
+[Contact Information](##Contact Information)
 
 Hi there! My name is **Howard Guan**, a exchange student major in data science, from *Southern University of Science and Technology* in Shenzhen, China. I come to UCSD this quarter for ~~the beautiful beach~~ a different learning and researching experience.
 
