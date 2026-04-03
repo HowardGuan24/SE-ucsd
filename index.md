@@ -1,5 +1,5 @@
 # About Me:
-[Contact Information](##Contact Information)
+[Contact Information](#contact-information)
 
 Hi there! My name is **Howard Guan**, a exchange student major in data science, from *Southern University of Science and Technology* in Shenzhen, China. I come to UCSD this quarter for ~~the beautiful beach~~ a different learning and researching experience.
 
@@ -12,8 +12,8 @@ People may be fond of these fields for different reasons, and here is my interpr
 
 > Gym work, Music and Anime are cures to my soul
 
-![alt text](o7wxku36e4f81.png)
-> It's ART
+![Enjoy some ART](o7wxku36e4f81.png)
+(one of my favourite anime: EVA. It's art)
 
 For my programming experience, I've been conducting research related to Target Speaker Extraction (use the timbre to extract speaker voice from a mixed speech) and Singing Voice Synthesis (Like Suno) in the Speech-Signal Processing Labarotary in Sustech. Here is the link for one of my interesting project:
 
